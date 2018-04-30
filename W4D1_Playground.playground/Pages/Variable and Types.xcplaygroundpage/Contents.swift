@@ -134,7 +134,7 @@ let areaOfCircle = pi * (radius * radius)
  */
 let diameter : Double = 24
 let radius2  : Double = (diameter/2)
-let circumference = 2 * pi * radius2
+let circumference = 2 * pi * radius2 //
 
 /*:
  - Callout(Problem 3):
